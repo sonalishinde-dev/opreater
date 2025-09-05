@@ -16,7 +16,7 @@ public class Arithmatic2 {
         System.out.println("Division: " + (a / b));       // Output: 2
         System.out.println("Modulus: " + (a % b));        // Output: 3(remainder of 11/4)
         System.out.println("Operation: "+(a+(a--)-(++b)+(--b)));
-                                          //11+11-5+4
+                                          //11+11-5+4=21
 	}
 
 	}
