@@ -12,7 +12,8 @@ public class Relationop {
 		System.out.println("(a == b) : " + (a==b));    
 		System.out.println("(a != b) : " + (a!=b));    
 		System.out.println("(a > b) : " + (a>b));   
-		int c=10;    
+		System.out.println("*****************");
+		int c=30;    
 		int d=20;    
 		System.out.println("(c < d ) : " + (c<d));        
 		System.out.println("(c <= d) : " + (c<=d));    
