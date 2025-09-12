@@ -8,8 +8,7 @@ public class Logicalor_1 {
 		char surname = 'b';
 		boolean fullname = ('a'>='b');
 		
-		System.out.println(surname<=name || name<=surname && name<surname  !=(name>surname));
-		
+		System.out.println(surname<=name || name<=surname && name<surname !=(name>surname) );
 	}
 
 }
